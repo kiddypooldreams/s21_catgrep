@@ -1,0 +1,8 @@
+First line
+
+
+Line after empty lines
+    Line with leading tab
+Line with special chars: sdfadaskdfn;aldihbkjaebuiopaefbhuiopadfbuiopadfbuiopasdfbyuioaebuyirwuqbrlqwkoubjrlkajwbdkajls
+Line with DEL char: 
+Last line
